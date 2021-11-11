@@ -1,1 +1,4 @@
-# lees-paradise-tiki-bar
+Restaurant
+==========
+
+A template for Restaurant business
