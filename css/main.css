@@ -29,7 +29,7 @@ h1 {
 }
 
 p.desc-text{
-    color: #29ad91;
+    color: #f78c3f;
     font-size: 30px;
     line-height: 35px;
     text-align: justify;
@@ -199,7 +199,7 @@ div#bs-example-navbar-collapse-1 {
 }
 
 nav {
-    background: #c16137!important;
+    background: #fbd58a!important;
     font-size: 18px;
     color: white !important;
 }
@@ -425,7 +425,7 @@ SECOND FOOTER CONTENT
 =========================*/
 
 footer.sub_footer {
-    background-color: #c16137;
+    background-color: #f78c3f;
     padding: 20px;
 }
 
@@ -543,7 +543,7 @@ p.sub-footer-text a{
     height: auto;
     padding:15px;
     color:#fff;
-    background:#29ad91;
+    background:#f78c3f;
     border:none;
     border-radius:3px;
     outline: none;
@@ -580,6 +580,10 @@ h1 {
 }
 .navbar-default {
     border: 0 !important;
+}
+
+#section-img {
+    border-radius: 10px;
 }
 
 /*========================
@@ -764,7 +768,7 @@ MEDIA QUERIES TABLET
     =========================*/
 
     section.social_connect {
-        background-color: #29ad91;
+        background-color: #f8b686;
         text-align: center;
         color: #fff;
         margin-bottom: 50px;
